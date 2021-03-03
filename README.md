@@ -1,9 +1,7 @@
 # Hi! I'm Ian McKain 👋
 ### I'm a Web Developer and Software Engineer
 
-[Connect](www.linkedin.com/in/ian-mckain) with me!
-
-Shoot me an email: ianmmckain@gmail.com
+[Connect](www.linkedin.com/in/ian-mckain) with me or shoot me an email: ianmmckain@gmail.com
 
 Please take a look at a few of my favorite my projects:
   * A Mastermind Game built with React & Node; includes OAuth & many features: 
