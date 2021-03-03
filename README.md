@@ -1,4 +1,4 @@
-# Hi! I'm Ian McKain
+# Hi! I'm Ian McKain 👋
 ### I'm a Web Developer and Software Engineer
 
 [Connect](www.linkedin.com/in/ian-mckain) with me!
@@ -14,5 +14,50 @@ Please take a look at a few of my favorite my projects:
   * A Real Estate Website built with React & Node; includes OAuth & Admin Features: 
     * [Front-End](https://github.com/imckain/react-real-estate-app-client)
     * [Back-End](https://github.com/imckain/react-real-estate-app-backend)
+<table border="0">
+ <thead>
+   <tr>
+    <th colspan="2"><p style="font-size:30px">Skills:</p></th>
+   </tr>
+ </thead>
+ <tbody>
+   <tr>
+      <td>JavaScript</td>
+      <td>React</td>
+   </tr>
+   <tr>
+      <td>HTML</td>
+      <td>NodeJS</td>
+   </tr>
+   <tr>
+      <td>CSS</td>
+      <td>Express</td>
+   </tr>
+   <tr>
+      <td>MongoDB</td>
+      <td>Mongoose</td>
+   </tr>
+   <tr>
+      <td>Python</td>
+      <td>Django</td>
+   </tr>
+   <tr>
+      <td>PostgresSQL</td>
+      <td>OOP</td>
+   </tr>
+   <tr>
+      <td>RESTful Routing</td>
+      <td>Git</td>
+   </tr>
+   <tr>
+      <td>Amazon S3 & AWS</td>
+      <td>Visual Studio</td>
+   </tr>
+   <tr>
+      <td>AJAX</td>
+      <td>JSON</td>
+   </tr>
+ </tbody>
+</table>
 
 Wish me luck on my journey 😄
