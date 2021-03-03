@@ -47,7 +47,7 @@ Please take a look at a few of my favorite my projects:
    </tr>
    <tr>
       <td>RESTful Routing</td>
-      <td>Git</td>
+      <td>MVC</td>
    </tr>
    <tr>
       <td>Amazon S3 & AWS</td>
@@ -56,6 +56,10 @@ Please take a look at a few of my favorite my projects:
    <tr>
       <td>AJAX</td>
       <td>JSON</td>
+   </tr>
+   <tr>
+      <td>Git</td>
+      <td>Heroku</td>
    </tr>
  </tbody>
 </table>
