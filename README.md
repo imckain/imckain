@@ -2,6 +2,7 @@
 ### I'm a Web Developer and Software Engineer
 
 [Connect](www.linkedin.com/in/ian-mckain) with me!
+
 Shoot me an email: ianmmckain@gmail.com
 
 Please take a look at a few of my favorite my projects:
