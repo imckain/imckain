@@ -64,4 +64,4 @@ Please take a look at a few of my favorite my projects:
  </tbody>
 </table>
 
-Wish me luck on my journey 😄
+Let's create! 🙌
