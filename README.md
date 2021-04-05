@@ -1,7 +1,7 @@
 # Hi! I'm Ian McKain 👋
 ### I'm a Web Developer and Software Engineer
 
-[Connect](www.linkedin.com/in/ian-mckain) with me </br>
+[Connect](www.linkedin.com/in/ianmckain) with me </br>
 Shoot me an email: ianmmckain@gmail.com </br>
 Check out my website @ www.ianmckain.com
 ---
