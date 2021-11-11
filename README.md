@@ -70,4 +70,14 @@ Please take a look at a few of my favorite projects:
  </tbody>
 </table>
 
+<!-- possible theme colors turd: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imckain&show_icons=true&theme=dracula)
+
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imckain)](https://github.com/anuraghazra/github-readme-stats)\
+ 
+<!--  I didn't wanna mess with the styling so you can do that. ur welcome -->
+
+
 # Let's create! 🙌
