@@ -8,12 +8,15 @@ Check out my website @ www.ianmckain.com
 
 Please take a look at a few of my favorite projects:
   * <img src="https://i.imgur.com/PysuPFl.png" alt="Poke-Pal" height="40" > *Team Build & Pokedex*
+
     * [App Store]() *Coming Soon*
     * [Source Code](https://github.com/imckain/poke-team-react-native)
   * A Restaurant Searching App built with React Native & Yelp's Fusion API:
+
     * [Zen Eats](https://apps.apple.com/us/app/zen-eats/id1587540510) *App Store Download*
     * [Source Code](https://github.com/imckain/zen-eats)
   * A Mastermind Game built with React & Node; includes OAuth & many features: 
+  
     * [Play it!](https://react-app-mastermind.netlify.app/)
     * [Front-End](https://github.com/imckain/react-mastermind-frontend)
     * [Back-End](https://github.com/imckain/react-mastermind-backend)
