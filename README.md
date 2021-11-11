@@ -73,9 +73,10 @@ Please take a look at a few of my favorite projects:
 
 <details>
  <summary>My Github Stats</summary>
+ 
 <!-- possible theme colors turd: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imckain&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imckain&show_icons=true&theme=dracula)
 
  <!--  I didn't wanna mess with the styling so you can do that. 
        
