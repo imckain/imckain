@@ -1,4 +1,4 @@
-# Hi! I'm Ian McKain 👋
+# Hi! I'm Ian 👋
 ### I'm a Web Developer and Software Engineer
 
 [Connect](https://www.linkedin.com/in/ianmckain) with me </br>
