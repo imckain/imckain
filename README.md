@@ -29,7 +29,7 @@ Please take a look at a few of my favorite projects:
  <tbody>
    <tr>
       <td>JavaScript</td>
-      <td>React</td>
+      <td>React.js & Native</td>
    </tr>
    <tr>
       <td>HTML</td>
