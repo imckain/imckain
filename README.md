@@ -72,15 +72,19 @@ Please take a look at a few of my favorite projects:
 
 
 <details>
- <summary>Github Stats</summary>
+ <summary>My Github Stats</summary>
 <!-- possible theme colors turd: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imckain&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imckain&show_icons=true&theme=tokyonight)
 
+ <!--  I didn't wanna mess with the styling so you can do that. 
+       
+        ur welcome, 
+        
+        -rarcher-->
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imckain)](https://github.com/anuraghazra/github-readme-stats)\
  
-<!--  I didn't wanna mess with the styling so you can do that. ur welcome -->
 </details>
 
 # Let's create! 🙌
