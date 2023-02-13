@@ -7,7 +7,7 @@ Check out my website @ www.ianmckain.com
 ---
 
 Please take a look at a few of my favorite projects:
-  * <img src="https://i.imgur.com/XRThLLP.png" alt="Dex Mate" height="40" > *Team Builder & Pokedex*
+  * <img src="https://i.imgur.com/PysuPFl.png" alt="Dex Mate" height="70" > *Team Builder & Pokedex*
 
     * [App Store]() *Coming Soon*
     * [Source Code](https://github.com/imckain/poke-team-react-native)
