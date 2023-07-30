@@ -1,4 +1,5 @@
-# I'm a React Native Developer and Software Engineer
+# Hi, I'm Ian
+## I'm a React Native Developer and Software Engineer
 
 [Connect](https://www.linkedin.com/in/ianmckain) with me </br>
 Shoot me an email: ianmmckain@gmail.com </br>
