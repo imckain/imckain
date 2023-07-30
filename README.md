@@ -1,4 +1,3 @@
-# Hi! I'm Ian 👋
 ### I'm a React Native Developer and Software Engineer
 
 [Connect](https://www.linkedin.com/in/ianmckain) with me </br>
@@ -81,5 +80,3 @@ Please take a look at a few of my favorite projects:
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imckain)](https://github.com/anuraghazra/github-readme-stats)\
  
 </details>
-
-# Let's create! 🙌
